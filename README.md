@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Software Engineer Universety at PUC CAMPINAS.
+- 🔭 &nbsp; I’m currently Software Engineer University at PUC CAMPINAS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineer, Computer programming and Mathematics.
 - ✍️ &nbsp; Like listening grunge and indie musics and playing online games. 
