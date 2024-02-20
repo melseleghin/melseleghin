@@ -27,5 +27,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=melseleghin&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/rafaballerini/melseleghin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
