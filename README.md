@@ -1,30 +1,25 @@
-### Hi! I'm Melissa Seleghin
-
---> Software Enginner student
+## Hi! I'm Melissa Seleghin 👋
 
 - ✨ I’m currently in the 5th period of college     
 - 📫 How to reach me: melseleghin@gmail.com
-- 📍 Pronouns: she/her
+
+## About me
+
+🇧🇷 Brazilian, 20 y.o.  
+👨🏻‍🎓 Software Engineer Student at Pontifícia Universidade Católica de Campinas  
+🏢 Working with Cyber Security  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/melissa-seleghin-a71818264/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/melseleghin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melseleghin&layout=compact)
+## Tech and Tools
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=melseleghin&show_icons=true&theme=tokyonight"
-    media="(prefers-color-theme: tokyonight)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=melseleghin&show_icons=true"
-    media="(prefers-color-theme: tokyonight), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=melseleghin&show_icons=true" />
-</picture>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,flask,django,js,nodejs,figma,bootstrap,react,html,css,postman,docker,firebase,postgres,mysql,mongo,git&perline=13)](https://skillicons.dev)
+
+
+
+
 
 
 
