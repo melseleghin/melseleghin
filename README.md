@@ -6,7 +6,7 @@
 ## About me
 
 🇧🇷 Brazilian, 20 y.o.  
-👨🏻‍🎓 Software Engineer Student at Pontifícia Universidade Católica de Campinas  
+👩🏻‍🎓 Software Engineer Student at Pontifícia Universidade Católica de Campinas  
 🏢 Working with Cyber Security  
 
 <h3 align="left">Connect with me:</h3>
