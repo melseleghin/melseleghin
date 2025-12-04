@@ -1,13 +1,13 @@
 ## Hi! I'm Melissa Seleghin 👋
 
-- ✨ I’m currently in the 5th period of college     
+- ✨ I’m currently in the 7th period of college     
 - 📫 How to reach me: melseleghin@gmail.com
 
 ## About me
 
-🇧🇷 Brazilian, 20 y.o.  
+🇧🇷 Brazilian, 21 y.o.  
 👩🏻‍🎓 Software Engineer Student at Pontifícia Universidade Católica de Campinas  
-🏢 Working with Cyber Security  
+🏢 Working with Developement
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
